@@ -22,7 +22,7 @@ export default function Home() {
         img="/images/banner1.png"
       />
       <Task />
-{/*       <OurServices /> */}
+      <OurServices />
       <Destination
         text1="Our"
         text2="Destination"
