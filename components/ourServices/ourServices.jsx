@@ -1,7 +1,7 @@
 import React from 'react'
-import OurServiceCard from './ourServiceCard'
-import OurServiceRight from './OurServiceRight'
-import '@/components/ourServices/style.css'
+import OurServiceCard from '@/components/ourServices/ourServiceCard'
+import OurServiceRight from '@/components/ourServices/OurServiceRight'
+// import '@/components/ourServices/style.css'
 
 const OurServices = () => {
   return (
