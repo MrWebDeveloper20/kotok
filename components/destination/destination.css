@@ -1,0 +1,5 @@
+.topLeftImg{
+  width: min-content;
+  height: max-content;
+  object-fit: cover;
+}

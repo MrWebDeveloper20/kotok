@@ -1,0 +1,72 @@
+.frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  padding-top: 65px;
+  justify-content: center;
+}
+
+.frame .div {
+  background-color: #ffffff4f;
+  border-radius: 27px;
+  height: 400px;
+  overflow: hidden;
+  width: 320px;
+}
+
+.frame .rectangle {
+  /* left: 0; */
+  object-fit: cover;
+  /* top: 0; */
+  width: fit-content;
+}
+
+.frame .overlap-group {
+  background-color: #ffffff;
+  border-radius: 0px 0px 27px 27px;
+  height: 253px;
+  /* left: 0; */
+  /* top: 197px; */
+  width: 373px;
+}
+
+.frame .deals-of-the-week {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.frame .feel-like-royally {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.4px;
+  line-height: 34px;
+  width: 320px;
+}
+
+.frame .learn-more-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  justify-content: center;
+  left: 28px;
+  padding: 20px 15px;
+}
+
+.frame .learn-more {
+  color: #2693f9;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
